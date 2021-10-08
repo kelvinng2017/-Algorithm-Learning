@@ -13,6 +13,10 @@ class Node():
         self.data = data  # 資料
         self.next = None  # 向後指標
         self.previous = None  # 向前指標
+        self.my_dict = {
+            "a": "1",
+            "b": "2"
+        }
 
 
 class Double_linked_list():
@@ -29,6 +33,7 @@ class Double_linked_list():
                 self.head = new_node  # 頭是new_node
                 new_node.previous = None  # 指向前方
                 new_node.next = None  # 指向後方
+                print(new_node.my_dict)
                 self.tail = new_node  # 尾節點也是new_node
             else:  # 處理雙向鏈結串列不是空
                 self.tail.next = new_node  # 尾節點指標指向new_node
