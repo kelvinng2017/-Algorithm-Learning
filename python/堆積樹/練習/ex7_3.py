@@ -74,6 +74,7 @@ obj.build_heap(h)                                   # 建立堆積樹串列
 print("執行後堆積樹串列 = ", obj.heap)
 obj.add_value_in_heap(2)
 obj.add_value_in_heap(1)
+obj.add_value_in_heap(6)
 # min = obj.get_min()
 # print("所獲得的最小值   = ", min)
 # print("執行後堆積樹串列 = ", obj.heap)
