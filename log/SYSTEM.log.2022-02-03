@@ -1,0 +1,67 @@
+2022-02-03 12:39:21,805  - [functionName:<module> line:26]  -[INFO]: 原始串列:[6, 1, 5, 7, 3]
+2022-02-03 12:39:21,807  - [functionName:selection_sort line:21]  -[INFO]: 第1次迴圈排序:[1, 6, 5, 7, 3]
+2022-02-03 12:39:21,807  - [functionName:selection_sort line:21]  -[INFO]: 第2次迴圈排序:[1, 3, 5, 7, 6]
+2022-02-03 12:39:21,807  - [functionName:selection_sort line:21]  -[INFO]: 第3次迴圈排序:[1, 3, 5, 7, 6]
+2022-02-03 12:39:21,808  - [functionName:selection_sort line:21]  -[INFO]: 第4次迴圈排序:[1, 3, 5, 6, 7]
+2022-02-03 12:39:21,808  - [functionName:<module> line:27]  -[INFO]: 排序結果:[1, 3, 5, 6, 7]
+2022-02-03 14:37:40,671  - [functionName:<module> line:21]  -[INFO]: 目前串列內容 = ['honda', 'bmw', 'toyota', 'ford']
+2022-02-03 14:37:40,673  - [functionName:<module> line:22]  -[INFO]: 使用selection_sort()由小到大排序
+2022-02-03 14:37:40,673  - [functionName:<module> line:24]  -[INFO]: 排序串列結果 = ['honda', 'bmw', 'toyota', 'ford']
+2022-02-03 14:38:29,820  - [functionName:<module> line:21]  -[INFO]: 目前串列內容 = ['honda', 'bmw', 'toyota', 'ford']
+2022-02-03 14:38:29,820  - [functionName:<module> line:22]  -[INFO]: 使用selection_sort()由小到大排序
+2022-02-03 14:38:29,820  - [functionName:<module> line:24]  -[INFO]: 排序串列結果 = ['bmw', 'ford', 'honda', 'toyota']
+2022-02-03 17:24:58,522  - [functionName:<module> line:26]  -[INFO]: YouTube點播排行
+2022-02-03 17:24:58,522  - [functionName:<module> line:29]  -[INFO]: 1:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:24:58,523  - [functionName:<module> line:29]  -[INFO]: 2:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:24:58,523  - [functionName:<module> line:29]  -[INFO]: 3:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:24:58,523  - [functionName:<module> line:29]  -[INFO]: 4:趙傳我是一隻小小鳥 -- 點播次數  8310000
+2022-02-03 17:26:49,236  - [functionName:<module> line:26]  -[INFO]: YouTube點播排行
+2022-02-03 17:26:49,237  - [functionName:<module> line:29]  -[INFO]: 1:趙傳我是一隻小小鳥 -- 點播次數  8310000
+2022-02-03 17:26:49,238  - [functionName:<module> line:29]  -[INFO]: 2:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:26:49,238  - [functionName:<module> line:29]  -[INFO]: 3:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:26:49,238  - [functionName:<module> line:29]  -[INFO]: 4:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:27:06,145  - [functionName:<module> line:26]  -[INFO]: YouTube點播排行
+2022-02-03 17:27:06,146  - [functionName:<module> line:29]  -[INFO]: 1:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:27:06,146  - [functionName:<module> line:29]  -[INFO]: 2:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:27:06,147  - [functionName:<module> line:29]  -[INFO]: 3:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:27:06,147  - [functionName:<module> line:29]  -[INFO]: 4:趙傳我是一隻小小鳥 -- 點播次數  8310000
+2022-02-03 17:28:59,292  - [functionName:<module> line:26]  -[INFO]: YouTube點播排行
+2022-02-03 17:28:59,293  - [functionName:<module> line:29]  -[INFO]: 1:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:28:59,293  - [functionName:<module> line:29]  -[INFO]: 2:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:28:59,294  - [functionName:<module> line:29]  -[INFO]: 3:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:28:59,294  - [functionName:<module> line:29]  -[INFO]: 4:趙傳我是一隻小小鳥 -- 點播次數  8310000
+2022-02-03 17:29:00,079  - [functionName:<module> line:26]  -[INFO]: YouTube點播排行
+2022-02-03 17:29:00,079  - [functionName:<module> line:29]  -[INFO]: 1:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:29:00,080  - [functionName:<module> line:29]  -[INFO]: 2:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:29:00,080  - [functionName:<module> line:29]  -[INFO]: 3:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:29:00,080  - [functionName:<module> line:29]  -[INFO]: 4:趙傳我是一隻小小鳥 -- 點播次數  8310000
+2022-02-03 17:29:00,537  - [functionName:<module> line:26]  -[INFO]: YouTube點播排行
+2022-02-03 17:29:00,537  - [functionName:<module> line:29]  -[INFO]: 1:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:29:00,538  - [functionName:<module> line:29]  -[INFO]: 2:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:29:00,538  - [functionName:<module> line:29]  -[INFO]: 3:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:29:00,538  - [functionName:<module> line:29]  -[INFO]: 4:趙傳我是一隻小小鳥 -- 點播次數  8310000
+2022-02-03 17:29:00,761  - [functionName:<module> line:26]  -[INFO]: YouTube點播排行
+2022-02-03 17:29:00,762  - [functionName:<module> line:29]  -[INFO]: 1:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:29:00,762  - [functionName:<module> line:29]  -[INFO]: 2:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:29:00,762  - [functionName:<module> line:29]  -[INFO]: 3:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:29:00,763  - [functionName:<module> line:29]  -[INFO]: 4:趙傳我是一隻小小鳥 -- 點播次數  8310000
+2022-02-03 17:29:01,026  - [functionName:<module> line:26]  -[INFO]: YouTube點播排行
+2022-02-03 17:29:01,027  - [functionName:<module> line:29]  -[INFO]: 1:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:29:01,027  - [functionName:<module> line:29]  -[INFO]: 2:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:29:01,027  - [functionName:<module> line:29]  -[INFO]: 3:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:29:01,028  - [functionName:<module> line:29]  -[INFO]: 4:趙傳我是一隻小小鳥 -- 點播次數  8310000
+2022-02-03 17:30:03,961  - [functionName:<module> line:40]  -[INFO]: YouTube點播排行
+2022-02-03 17:30:03,961  - [functionName:<module> line:43]  -[INFO]: 1:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:30:03,962  - [functionName:<module> line:43]  -[INFO]: 2:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:30:03,962  - [functionName:<module> line:43]  -[INFO]: 3:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:30:03,963  - [functionName:<module> line:43]  -[INFO]: 4:趙傳我是一隻小小鳥 -- 點播次數  8310000
+2022-02-03 17:30:05,594  - [functionName:<module> line:40]  -[INFO]: YouTube點播排行
+2022-02-03 17:30:05,594  - [functionName:<module> line:43]  -[INFO]: 1:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:30:05,594  - [functionName:<module> line:43]  -[INFO]: 2:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:30:05,595  - [functionName:<module> line:43]  -[INFO]: 3:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:30:05,595  - [functionName:<module> line:43]  -[INFO]: 4:趙傳我是一隻小小鳥 -- 點播次數  8310000
+2022-02-03 17:31:30,237  - [functionName:<module> line:26]  -[INFO]: YouTube點播排行
+2022-02-03 17:31:30,238  - [functionName:<module> line:29]  -[INFO]: 1:五佰 挪威森林 -- 點播次數  34130000
+2022-02-03 17:31:30,238  - [functionName:<module> line:29]  -[INFO]: 2:李宗盛山丘 -- 點播次數  24740000
+2022-02-03 17:31:30,239  - [functionName:<module> line:29]  -[INFO]: 3:林憶蓮聽說愛情回來過 -- 點播次數  12710000
+2022-02-03 17:31:30,239  - [functionName:<module> line:29]  -[INFO]: 4:趙傳我是一隻小小鳥 -- 點播次數  8310000
